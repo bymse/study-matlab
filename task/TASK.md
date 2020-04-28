@@ -12,8 +12,11 @@
 
 ##### 5. Разложить на простейшие дроби
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{(x-1)(x%2b2)(x%2b3)}">
+- <img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{(x-1)(x%2b2)(x%2b3)}">
+- <img src="https://render.githubusercontent.com/render/math?math=\frac{3%2bx}{(x-1)(x^2%2b1)}">
+- <img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{(x^4-1)}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{3%2bx}{(x-1)(x^2%2b1)}">
+##### 7. Найти корни полиномов и построить график на отрезке, содержащем корни
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{(x^4-1)}">
+- <img src="https://render.githubusercontent.com/render/math?math=x^3-6x^2%2b15x-14">
+- ![img](https://render.githubusercontent.com/render/math?math=10x^4 - 13x^3 %2b 15x^2 -18x - 24)

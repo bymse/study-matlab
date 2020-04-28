@@ -1,24 +1,13 @@
+importdata('plot_based_on_poly_roots.m');
+
 n = input('n=');
 syms x
 my_poly_symb = x^(2*n) - n*x^(n+1)+n*x^(n-1) - 1;
-my_poly = coeffs(my_poly_symb, 'all');
-disp('Poly');
-disp(my_poly);
+plot_based_on_poly_roots(my_poly_symb, @filter_duplicate_vals);
 
-my_roots = roots(my_poly);
-disp('Roots');
-disp(my_roots);
-
-idx = (my_roots==real(my_roots));
-real_roots = my_roots(idx);
-
-max_val = max(real_roots);
-min_val = min(real_roots);
-
-if max_val == min_val
-    disp('Segment has zero lenght');
+function [idx] = filter_duplicate_vals(a_few_vals)
+    idx = (a_few_vals==real(a_few_vals));
+    real_vals = a_few_vals(idx);
+    [~, w] = unique(real_vals, 'stable' );
+    idx = setdiff(1:numel(real_vals), w );
 end
-
-x = linspace(min_val, max_val);
-poly_vals = polyval(double(my_poly), double(x));
-plot(x, poly_vals ); 
