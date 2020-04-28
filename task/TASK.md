@@ -10,5 +10,10 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=x^{2n}-nx^{n%2b1}%2bnx^{n-1}-1">
 
+##### 5. Разложить на простейшие дроби
 
+<img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{(x-1)(x%2b2)(x%2b3)}">
 
+<img src="https://render.githubusercontent.com/render/math?math=\frac{3%2bx}{(x-1)(x^2%2b1)}">
+
+<img src="https://render.githubusercontent.com/render/math?math=\frac{x^2}{(x^4-1)}">
