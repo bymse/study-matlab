@@ -2,13 +2,16 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=x^3-3.55x^2%2b5.1x-3.1">
 
+##### 2. Выполнить деление
+
+- <img src="https://render.githubusercontent.com/render/math?math=2x^4-3x^3%2b4x^2-5x%2b6, x^2-3x%2b1">
+- <img src="https://render.githubusercontent.com/render/math?math=x^3-3x^2-x-1, 3x^2-2x%2b1">
+
 ##### 3. Вычислить, пользуясь схемой Горнера. 
 
 Вычислить, пользуясь схемой Горнера, значение полинома и его производной.
 
 <img src="https://render.githubusercontent.com/render/math?math=x^4-2x^3%2b6x^2-10x%2b16, x_0=4">
-
-Комментарий: не понял смысл задания, т.к. оно решается функциями стандартной библиотеки 
 
 ##### 4. Найти кратные корни полиномов, построить график на отрезке, содержащем корни
 
