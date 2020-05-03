@@ -7,3 +7,7 @@
 ##### 4. Найти корни уравнения. Сравнить результаты применения команд fzero и solve
 
 <img src="https://render.githubusercontent.com/render/math?math=x^2%2b1=0">
+
+##### 5. Найти корни уравнения. Сравнить результаты применения команд fzero и solve, построить график функции.
+
+<img src="https://render.githubusercontent.com/render/math?math=cos(x)-e^{0.001%2bx^2}=0">
