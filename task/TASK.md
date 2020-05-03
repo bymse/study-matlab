@@ -4,3 +4,6 @@
 - <img src="https://render.githubusercontent.com/render/math?math=sin(x(1-x))=0, [0,2\pi]">
 - <img src="https://render.githubusercontent.com/render/math?math=xsin(x)-cosx=0, [0,4\pi]">
 
+##### 4. Найти корни уравнения. Сравнить результаты применения команд fzero и solve
+
+<img src="https://render.githubusercontent.com/render/math?math=x^2%2b1=0">
