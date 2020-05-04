@@ -15,3 +15,7 @@
 ##### 2.1 Найти минимум функции на промежутке [a, b].
 
 <img src="https://render.githubusercontent.com/render/math?math=f(x)=\frac{1}{(a_1cos(x)-b_1sinx)^2}, a=0, b=2\pi/3">
+
+##### 2.2 Исследовать в зависимости от параметров значение экстремумов функций
+
+<img src="https://render.githubusercontent.com/render/math?math=f(x)=x^\alpha e^{-\beta x}">
