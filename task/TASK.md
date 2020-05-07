@@ -26,7 +26,7 @@
 ##### 7. Найти корни полиномов и построить график на отрезке, содержащем корни
 
 - <img src="https://render.githubusercontent.com/render/math?math=x^3-6x^2%2b15x-14">
-- ![img](https://render.githubusercontent.com/render/math?math=10x^4 - 13x^3 %2b 15x^2 -18x - 24)
+- ![img](https://render.githubusercontent.com/render/math?math=10x^4-13x^3%2b15x^2-18x-24)
 
 ##### 8. Построить матрицу NxN случайных чисел, построить полином, корнями которого являются собственные значения этой матрицы. Проверить, является ли матрица корнем этого полинома.
 
