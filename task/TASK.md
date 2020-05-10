@@ -31,4 +31,9 @@
 ##### 6. Разложить функцию в ряд Тейлора до степени n в окрестности указанной точки a
 
 - <img src="https://render.githubusercontent.com/render/math?math=f(x)=e^x, a=0, n=5">
-- <img src="https://render.githubusercontent.com/render/math?math=f(x)=ln(2x-1), a=-1, n=3">
+- <img src="https://render.githubusercontent.com/render/math?math=f(x)=sin^2(x), a=0, n=10">
+
+##### 7. Построить график функции, изобразить асимптоты функции на отрезке [-7, 7]. Найти и указать на графике точки максимума и минимума функции, а также точки перегиба.
+
+<img src="https://render.githubusercontent.com/render/math?math=y=\frac{e^{\frac{1}{1-x^2}}}{1%2bx^2}">
+
