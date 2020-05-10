@@ -24,7 +24,11 @@
 
 ##### 5. Вычислить сумму ряда
 
-- <img src="https://render.githubusercontent.com/render/math?math=1%2b\frac{1}{2^2}%2b\frac{1}{3^2}%2b...">
-- <img src="https://render.githubusercontent.com/render/math?math=\sum -1^{\frac{n^2+n}{2}}\frac{n}{2^n}">
-- <img src="https://render.githubusercontent.com/render/math?math=1%2bx%2bx^2%2b...">
+- <img src="https://render.githubusercontent.com/render/math?math=\sum -1^{\frac{n^2%2bn}{2}}\frac{n}{2^n}">
+- <img src="https://render.githubusercontent.com/render/math?math=\sum_{n=1}^{\infty}\frac{(3-x)^{2n}}{\sqrt{n}}">
+- <img src="https://render.githubusercontent.com/render/math?math=\sum_{k=-\infty}^{\infty}\frac{1}{(x-k)^3}">
 
+##### 6. Разложить функцию в ряд Тейлора до степени n в окрестности указанной точки a
+
+- <img src="https://render.githubusercontent.com/render/math?math=f(x)=e^x, a=0, n=5">
+- <img src="https://render.githubusercontent.com/render/math?math=f(x)=ln(2x-1), a=-1, n=3">
