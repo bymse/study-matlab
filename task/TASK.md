@@ -6,3 +6,8 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=x=0:0.01:4\pi, y_1=sin(x), y_2=cos(x)">
 
+##### 3. Создать GUI с двумя графиками.
+
+<img src="https://render.githubusercontent.com/render/math?math=x=-2:0.2:2, y=e^{-x^2}">
+
+<img src="https://render.githubusercontent.com/render/math?math=x=0:0.1:4*pi, y=sin(x)">
